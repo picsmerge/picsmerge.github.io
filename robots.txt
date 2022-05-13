@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Allow: /landing
+Allow: /app/documentation
+Disallow: /app/items
+Disallow: /app/settings
+Disallow: /error
+Disallow: /404
